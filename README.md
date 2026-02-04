@@ -11,6 +11,9 @@ Dataset Description
 The dataset contains customer demographic, financial, and campaign-related information
 such as age, job, marital status, housing loan, personal loan, and campaign outcome.
 
+Dataset Source
+Kaggle: Bank Marketing Dataset
+
 Target Variable:
 - `default` / `y` (indicates whether the customer subscribed or not)
 
@@ -42,7 +45,6 @@ and prepares the dataset for predictive modeling using classification algorithms
 
 Files in Repository
 - `bank_analysis.py` 
-- `bank.csv`
 - `README.md`
 
 Author
